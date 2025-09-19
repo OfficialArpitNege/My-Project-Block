@@ -1,0 +1,28 @@
+{
+  "name": "my-project-block",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OfficialArpitNege/My-Project-Block.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OfficialArpitNege/My-Project-Block/issues"
+  },
+  "homepage": "https://github.com/OfficialArpitNege/My-Project-Block#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "hardhat": "^2.22.5"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "ethers": "^6.15.0"
+  }
+}
