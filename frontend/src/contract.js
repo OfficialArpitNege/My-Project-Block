@@ -1,7 +1,7 @@
 import { ethers } from "ethers";
 
 // Replace this with your deployed contract address (from Hardhat)
-export const CONTRACT_ADDRESS = "0x2c936fFf63f520e87D41De7dF4B283Deca0B3947";
+export const CONTRACT_ADDRESS = "0x71a525cF2cD65fAF1EB0643e0093957F0B74D755";
 
 // Replace this with your contract ABI (generated after compile)
 export const CONTRACT_ABI = [
