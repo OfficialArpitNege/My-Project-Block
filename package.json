@@ -6,15 +6,24 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OfficialArpitNege/My-Project-Block.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "dotenv": "^17.2.2",
-    "ethers": "^6.15.0"
+  "bugs": {
+    "url": "https://github.com/OfficialArpitNege/My-Project-Block/issues"
   },
+  "homepage": "https://github.com/OfficialArpitNege/My-Project-Block#readme",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^6.1.0",
     "hardhat": "^2.26.3"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "ethers": "^6.15.0"
+  }
   }
 }
